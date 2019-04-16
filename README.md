@@ -1,2 +1,3 @@
 # workshop-teen-ai
-for hands-on session during Teen in AI workshop on heart dataset
+For hands-on session during Teen in AI workshop.
+Storyline on heart dataset (from UCI repository).
