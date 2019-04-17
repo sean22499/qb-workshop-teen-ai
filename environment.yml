@@ -1,0 +1,11 @@
+name: qb-teens-in-ai-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - graphviz
+  - pip:
+    - nbgitpuller
+    - pandas
+    - matplotlib
