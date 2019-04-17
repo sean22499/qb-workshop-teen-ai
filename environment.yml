@@ -2,9 +2,9 @@ name: qb-teens-in-ai-env
 dependencies:
   - python=3.6
   - graphviz
-  - numpy==1.15.0
+  - numpy
   - pip:
-    - pandas==0.23.4
+    - pandas
     - matplotlib==2.1.0
     - seaborn==0.8
     - sklearn
