@@ -1,9 +1,0 @@
-pandas
-matplotlib
-seaborn
-numpy
-sklearn
-ipython
-pydot
-graphviz
-pydot_ng
