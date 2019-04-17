@@ -7,3 +7,5 @@ dependencies:
     - nbgitpuller
     - pandas
     - matplotlib
+    - seaborn
+    - sklearn
