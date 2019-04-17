@@ -1,9 +1,9 @@
+# workshop-teens-in-ai
 ![qblogo](https://s3.amazonaws.com/re-work-production/partner_logos/quantumblack.001/original/quantumblack.001.png?1549894071)
-# workshop-teen-ai
 
 ## Today's exercise will use the UCI heart disease dataset
 
-- More information can be found [here](http://archive.ics.uci.edu/ml/datasets/heart+disease)
+- More information can be found [here](http://archive.ics.uci.edu/ml/datasets/heart+disease).
 - This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. 
 - The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 - A short data dictionary has been found below:
@@ -26,6 +26,8 @@
 | thal     	| A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)                                                                                 	|
 | target   	| Heart disease (0 = no, 1 = yes)                                                                                                                                           	|
 
+
+## Let's get hands on!
 Launch DS exercise here 😎: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datajoely/qb-workshop-teen-ai.git/master?filepath=exercise.ipynb)
